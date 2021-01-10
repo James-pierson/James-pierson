@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ... Twitter
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=james-pierson&show_icons=true&hide=contribs, prs&theme=dark)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=james-pierson&show_icons=true&theme=dark)
 
